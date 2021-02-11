@@ -21,3 +21,8 @@ got to postman to create requests:
     also the data will be permamently stored in the DB
     this could be checked by going to your local browser and implementing this command: http://localhost:3000/product
     after pressing enter, the data will appear in JSON format, staing that data is going to the server and then again coming back to us.
+
+
+WORKING FINE TILL LOCAL HOST 4000, BUT TROUBLING WHEN COMPILED WITH REACT
+
+NEED TO LOOK INTO REACT CODE, SMALL MISTAKES
