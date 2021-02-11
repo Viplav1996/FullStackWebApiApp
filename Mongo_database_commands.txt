@@ -1,0 +1,14 @@
+Mongo general commands:
+
+show dbs // to look for available databases
+
+use name_of_database // to switch to a particular database
+
+show colections // to look into particular clusters of databse
+
+db.name_of_cluster.find({}).pretty()  // to search for related objects with a particular database
+
+pretty()    // to make the objects look same as they will look in JSON format
+
+db.name_of_cluster.update()
+db.name_of_cluster.remove()
