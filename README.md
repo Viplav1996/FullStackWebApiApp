@@ -10,7 +10,7 @@ Data Being stored in MongoDB side by side,
 Process to run the file is:
 
 Run mongod,
-Run mongo
+Run mongo  
 Run server.js
 
 got to postman to create requests:
